@@ -1,4 +1,12 @@
-### Hi there 👋
+![Selam Beyene](https://github.com/Slmbyn/Slmbyn/assets/62676738/17e920b2-cb8a-4276-9be0-d23191818f7e)
+# Hi there 👋
+I'm a Full-Stack Software Engineer and Options Trader, proudly representing the San Francisco Bay Area. I get a kick out of turning boring stuff into something exciting, be it my next coding project or cooking up a fresh trading strategy. It's all about adding that touch of fun to everything I do!
+
+### 📬 Get In Touch
+- Website: https://selam-b.vercel.app/
+- Email: selambeyene2@gmail.com
+- LinkedIn: https://www.linkedin.com/in/selambeyene/
+
 
 <!--
 **Slmbyn/Slmbyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
